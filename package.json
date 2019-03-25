@@ -53,10 +53,10 @@
     "@angular/common": ">=4.0.0"
   },
   "devDependencies": {
-    "@angular/compiler": "4.4.7",
-    "@angular/compiler-cli": "4.4.7",
-    "@angular/common": "4.4.7",
-    "@angular/core": "4.4.7",
+    "@angular/compiler": "7.2.10",
+    "@angular/compiler-cli": "7.2.10",
+    "@angular/common": "7.2.10",
+    "@angular/core": "7.2.10",
     "clean-css": "4.2.1",
     "node-sass": "4.11.0",
     "rimraf": "2.6.3",
